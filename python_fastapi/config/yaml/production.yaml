@@ -1,0 +1,9 @@
+SYSTEM_PROMPTS_PATH: 'assets/system_prompts'
+RSS_SOURCES:
+  - name: 'fox'
+    url: 'https://www.foxnews.com/story/foxnews-com-rss-feeds'
+TEST_HOST: '127.0.0.1'
+TEST_PORT: 54321
+ALLOWED_ORIGINS:
+  - 'http://localhost:3000'
+  - 'http://127.0.0.1:54321'
