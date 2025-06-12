@@ -1,7 +1,7 @@
 SYSTEM_PROMPTS_PATH: 'assets/system_prompts'
 RSS_SOURCES:
   - name: 'fox'
-    url: 'https://www.foxnews.com/story/foxnews-com-rss-feeds'
+    url: 'https://moxie.foxnews.com/google-publisher/latest.xml'
 TEST_HOST: '127.0.0.1'
 TEST_PORT: 54321
 ALLOWED_ORIGINS:

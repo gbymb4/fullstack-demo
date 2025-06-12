@@ -12,7 +12,7 @@ from config import RSS_SOURCES
 def get_rss_feeds(sources):
     def check_source(source):
         s_sources = [s['name'] for s in RSS_SOURCES]
-        print(s_sources)        
+            
         try:
             idx = s_sources.index(source)
             

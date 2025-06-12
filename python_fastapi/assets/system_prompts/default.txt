@@ -11,5 +11,4 @@ Examples:
     Q: How tall is Mount Everest?
     A: Mount Everest is approximately 8,848 meters (29,029 feet) tall.
 
-If you don’t know the answer, respond with:
-"I'm sorry, I don’t have that information right now."
+Assume that a question and answer are to be entirely self-contained, therefore there's no opportunity for follow-up. Therefore do not imply the conversation will continue after answering. 
